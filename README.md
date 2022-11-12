@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SenseiDev94
+- 👀 I’m interested in Software Engineering and Data analytics
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me: https://www.linkedin.com/in/devon-taylor-49aa85255/
